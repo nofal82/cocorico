@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-20T16:58:40.838Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="TnuZfGTzy7pwSy0ci7L2" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-20T17:00:43.031Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="hpDz5VkBBigNpmPNShNV" version="21.6.8" type="github">
   <diagram name="Page-1" id="5yHXhzOboaGC32rVastP">
     <mxGraphModel dx="1900" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gMRfF3xepI4SvDVw1-z6-7" value="MariaDB Replica Set" style="swimlane;startSize=20;horizontal=1;containerType=tree;" vertex="1" parent="1">
-          <mxGeometry x="600" y="50" width="190" height="230" as="geometry" />
+          <mxGeometry x="500" y="50" width="261" height="290" as="geometry" />
         </mxCell>
         <mxCell id="gMRfF3xepI4SvDVw1-z6-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="gMRfF3xepI4SvDVw1-z6-7" source="gMRfF3xepI4SvDVw1-z6-9" target="gMRfF3xepI4SvDVw1-z6-10">
           <mxGeometry relative="1" as="geometry" />
@@ -44,6 +44,12 @@
         </mxCell>
         <mxCell id="gMRfF3xepI4SvDVw1-z6-10" value="Slavedb" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="gMRfF3xepI4SvDVw1-z6-7">
           <mxGeometry x="140" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gMRfF3xepI4SvDVw1-z6-20" value="172.18.0.10 inside/outside&lt;br/&gt;port 3306" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="gMRfF3xepI4SvDVw1-z6-7">
+          <mxGeometry x="-10" y="100" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gMRfF3xepI4SvDVw1-z6-24" value="172.18.0.9 inside only port&lt;br/&gt;3306" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="gMRfF3xepI4SvDVw1-z6-7">
+          <mxGeometry x="-10" y="153" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gMRfF3xepI4SvDVw1-z6-11" value="MongoDB Cluster" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="310" width="460" height="380" as="geometry" />
