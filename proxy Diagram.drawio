@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T08:33:23.735Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="gltZc2uNENZBAQXWDOUj" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-24T08:42:06.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="jIUNAINTfWufkLMdfxVE" version="21.6.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1500" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Q9CDMDr3u7Lls-_SdMtv-2259" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.proxy_appliance;" vertex="1" parent="1">
           <mxGeometry x="290" y="234" width="130" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Q9CDMDr3u7Lls-_SdMtv-2260" value="Platform X(New)" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;whiteSpace=wrap;fillColor=#F1F8E9;" vertex="1" parent="1">
-          <mxGeometry x="560" y="70" width="120" height="70" as="geometry" />
+        <mxCell id="Q9CDMDr3u7Lls-_SdMtv-2260" value="Platform X(New)&lt;br&gt;172.16.192.78" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;whiteSpace=wrap;fillColor=#F1F8E9;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-80" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Q9CDMDr3u7Lls-_SdMtv-2261" value="Platform-Y (OLD)" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;whiteSpace=wrap;fillColor=#E1F5FE;" vertex="1" parent="1">
-          <mxGeometry x="560" y="420" width="120" height="75" as="geometry" />
+        <mxCell id="Q9CDMDr3u7Lls-_SdMtv-2261" value="Platform-Y (OLD)&lt;br&gt;22.22.22.22" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;whiteSpace=wrap;fillColor=#E1F5FE;" vertex="1" parent="1">
+          <mxGeometry x="630" y="547" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="Q9CDMDr3u7Lls-_SdMtv-2271" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q9CDMDr3u7Lls-_SdMtv-2262" target="Q9CDMDr3u7Lls-_SdMtv-2259">
           <mxGeometry relative="1" as="geometry">
@@ -44,7 +44,7 @@
           <mxGeometry x="39" y="350" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q9CDMDr3u7Lls-_SdMtv-2267" value="10.6.30.0/24" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="44" y="570" width="90" height="30" as="geometry" />
+          <mxGeometry x="44" y="562" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q9CDMDr3u7Lls-_SdMtv-2278" value="www.mw.com" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="58" width="100" height="30" as="geometry" />
@@ -57,6 +57,39 @@
         </mxCell>
         <mxCell id="Q9CDMDr3u7Lls-_SdMtv-2281" value="Change Domain www.mw.com IP to point to proxy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="34" y="610" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9CDMDr3u7Lls-_SdMtv-2289" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q9CDMDr3u7Lls-_SdMtv-2282" target="Q9CDMDr3u7Lls-_SdMtv-2260">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q9CDMDr3u7Lls-_SdMtv-2282" value="Proxy ACL-: if Source IP 192.168.10.0/24 &lt;br&gt;then forward to&amp;nbsp;172.16.192.78" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="357" y="171" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9CDMDr3u7Lls-_SdMtv-2283" value="Traffic to X" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9CDMDr3u7Lls-_SdMtv-2284" value="Traffic&amp;nbsp;to Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="174" y="220" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9CDMDr3u7Lls-_SdMtv-2291" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q9CDMDr3u7Lls-_SdMtv-2286" target="Q9CDMDr3u7Lls-_SdMtv-2261">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q9CDMDr3u7Lls-_SdMtv-2286" value="Proxy ACL-: if Source IP 172.16.20.0/24 &lt;br&gt;then forward to&amp;nbsp;22.22.22.22" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="260" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9CDMDr3u7Lls-_SdMtv-2293" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q9CDMDr3u7Lls-_SdMtv-2287">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q9CDMDr3u7Lls-_SdMtv-2287" value="Proxy ACL-: if Source IP 10.6.30.0/24 &lt;br&gt;then forward to&amp;nbsp;172.16.192.78" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="380" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9CDMDr3u7Lls-_SdMtv-2295" value="Traffic to X" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="432" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
