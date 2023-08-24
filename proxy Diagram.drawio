@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T08:42:06.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="jIUNAINTfWufkLMdfxVE" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-24T08:48:11.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="p11DGgsgXudENAsUPZI1" version="21.6.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1500" dy="1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -66,11 +66,8 @@
         <mxCell id="Q9CDMDr3u7Lls-_SdMtv-2282" value="Proxy ACL-: if Source IP 192.168.10.0/24 &lt;br&gt;then forward to&amp;nbsp;172.16.192.78" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="357" y="171" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Q9CDMDr3u7Lls-_SdMtv-2283" value="Traffic to X" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="-5" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Q9CDMDr3u7Lls-_SdMtv-2284" value="Traffic&amp;nbsp;to Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="174" y="220" width="80" height="30" as="geometry" />
+        <mxCell id="Q9CDMDr3u7Lls-_SdMtv-2283" value="Traffic to&amp;nbsp;Platform&amp;nbsp;&amp;nbsp;X" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="155" y="-5" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q9CDMDr3u7Lls-_SdMtv-2291" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q9CDMDr3u7Lls-_SdMtv-2286" target="Q9CDMDr3u7Lls-_SdMtv-2261">
           <mxGeometry relative="1" as="geometry">
@@ -88,8 +85,11 @@
         <mxCell id="Q9CDMDr3u7Lls-_SdMtv-2287" value="Proxy ACL-: if Source IP 10.6.30.0/24 &lt;br&gt;then forward to&amp;nbsp;172.16.192.78" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="380" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Q9CDMDr3u7Lls-_SdMtv-2295" value="Traffic to X" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="432" width="80" height="30" as="geometry" />
+        <mxCell id="Q9CDMDr3u7Lls-_SdMtv-2296" value="Traffic to&amp;nbsp;Platform&amp;nbsp;&amp;nbsp;X" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="149" y="432" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9CDMDr3u7Lls-_SdMtv-2297" value="Traffic to&amp;nbsp;Platform&amp;nbsp; Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="155" y="226" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
