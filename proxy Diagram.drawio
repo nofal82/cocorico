@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T08:31:00.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="3gbX5SHOa3RiyXZ_tWKG" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-24T08:33:23.735Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="gltZc2uNENZBAQXWDOUj" version="21.6.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1500" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -54,6 +54,9 @@
         </mxCell>
         <mxCell id="Q9CDMDr3u7Lls-_SdMtv-2280" value="www.mw.com" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="462" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9CDMDr3u7Lls-_SdMtv-2281" value="Change Domain www.mw.com IP to point to proxy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="34" y="610" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
